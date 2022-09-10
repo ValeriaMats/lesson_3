@@ -1,0 +1,25 @@
+.text{
+   color: green;
+}
+.block{
+   color: blueviolet;
+}
+.list{
+   color: orange;
+}
+h1 {
+   color: blue;
+}
+h2 {
+   color: blue;
+}
+h3 {
+   color: blue;
+}
+.color-gray{
+   color: gray;
+}
+a.link {
+   color: olive;
+}
+
